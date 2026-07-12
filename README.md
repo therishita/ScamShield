@@ -69,7 +69,8 @@ Risk assessment and safety advice are generated
 
 ## Home Page
 
-<!-- Add screenshot here -->
+<img width="1510" height="728" alt="image" src="https://github.com/user-attachments/assets/c6dedff8-8095-4687-a3df-43562da3d653" />
+
 
 
 
@@ -119,15 +120,16 @@ Risk assessment and safety advice are generated
 
 # 📂 Project Structure
 
-
+```text
 ScamShield/
 │
-├── app.py # Main Streamlit application
-├── ai.py # Gemini AI integration
-├── ui.py # Result display components
-├── styles.py # UI styling
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── app.py              # Main Streamlit application
+├── ai.py               # Gemini AI integration
+├── ui.py               # Result display components
+├── styles.py           # UI styling
+├── requirements.txt    # Project dependencies
+└── README.md           # Project documentation
+```
 
 
 ---
