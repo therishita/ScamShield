@@ -107,6 +107,7 @@ Risk assessment and safety advice are generated
 
 ## Artificial Intelligence
 
+- Gemma
 - Google Gemini API
 
 ## Programming Language
@@ -157,6 +158,7 @@ ScamShield aims to reduce online fraud by helping users identify suspicious cont
 # 👩‍💻 Built With
 - Python
 - Streamlit
+- Gemma
 - Google Gemini AI
 
 ----
