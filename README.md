@@ -118,6 +118,8 @@ Risk assessment and safety advice are generated
 ---
 
 # 📂 Project Structure
+
+
 ScamShield/
 │
 ├── app.py # Main Streamlit application
@@ -127,6 +129,7 @@ ScamShield/
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
 
+
 ---
 
 # 🚀 Installation & Setup
@@ -135,10 +138,8 @@ ScamShield/
 
 ```bash
 git clone <repository-link>
-
 Install Dependencies
 pip install -r requirements.txt
-
 Configure API Key
 
 Create a .env file:
@@ -146,26 +147,21 @@ Create a .env file:
 GEMINI_API_KEY=your_api_key_here
 Run Application
 streamlit run app.py
-
-
-**##Future Enhancements**
-  🌐 Real-time URL scam detection
-  🖼️ Advanced screenshot-based scam detection
-  📱 Mobile application
-  🌍 Browser extension for real-time protection
-  🧠 Scam pattern database
-  🔔 Real-time scam alerts
-
+🔮 Future Enhancements
+🌐 Real-time URL scam detection
+🖼️ Advanced screenshot-based scam detection
+📱 Mobile application
+🌍 Browser extension for real-time protection
+🧠 Scam pattern database
+🔔 Real-time scam alerts
 🎯 Impact
 
 ScamShield aims to reduce online fraud by helping users identify suspicious content before becoming victims.
+
 By combining Generative AI with an easy-to-use interface, it provides accessible scam awareness and prevention.
 
 👩‍💻 Built With
-
 Python
 Streamlit
 Google Gemini AI
-
 🛡️ Making Digital Spaces Safer with AI
-
