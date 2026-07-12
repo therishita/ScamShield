@@ -69,14 +69,15 @@ Risk assessment and safety advice are generated
 
 ## Home Page
 
-<img width="1510" height="728" alt="image" src="https://github.com/user-attachments/assets/c6dedff8-8095-4687-a3df-43562da3d653" />
-
-
+<img width="1531" height="735" alt="image" src="https://github.com/user-attachments/assets/216c7843-1c9d-495a-9acf-4b20f1dcb5cc" />
 
 
 <br><br>
 
 
+<img width="1528" height="727" alt="image" src="https://github.com/user-attachments/assets/dc001d39-61fc-42ff-8dca-e20e51ff5979" />
+
+<br><br>
 
 ## Text Scam Detection Result
 
