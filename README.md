@@ -161,6 +161,12 @@ ScamShield aims to reduce online fraud by helping users identify suspicious cont
 - Gemma
 - Google Gemini AI
 
-----
+---
+
+## 👩‍💻 Author
+
+Built with ❤️ by **Rishita Sarkar** for the **Google Gemma for Bharat Hackathon 2026**.
+
+This project explores the potential of Generative AI in cybersecurity by using Google AI technologies to create safer digital experiences.
 
 # 🛡️ Making Digital Spaces Safer with AI
