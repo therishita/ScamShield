@@ -81,9 +81,7 @@ Risk assessment and safety advice are generated
 
 ## Text Scam Detection Result
 
-<!-- Add screenshot here -->
-
-
+<img width="1530" height="728" alt="image" src="https://github.com/user-attachments/assets/eea1709a-5598-4183-b935-b17e23afb102" />
 
 <br><br>
 
@@ -91,8 +89,12 @@ Risk assessment and safety advice are generated
 
 ## AI Analysis Output
 
-<!-- Add screenshot here -->
+<img width="1530" height="732" alt="image" src="https://github.com/user-attachments/assets/7e36deef-bd6f-49b1-ab2a-ee4a77a35c6c" />
 
+<img width="1532" height="627" alt="image" src="https://github.com/user-attachments/assets/4d781aff-f2a4-42a0-8944-6db12125ac63" />
+
+## How it works
+<img width="1532" height="631" alt="image" src="https://github.com/user-attachments/assets/219d7c06-e0d0-48e8-9412-28f2ce757338" />
 
 
 ---
