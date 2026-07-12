@@ -134,27 +134,26 @@ ScamShield/
 
 # 🔮 Future Enhancements
 
-🌐 Real-time URL scam detection
-🖼️ Advanced screenshot-based scam detection
-📱 Mobile application
-🌍 Browser extension for real-time protection
-🧠 Scam pattern database
-🔔 Real-time scam alerts
+- 🌐 Real-time URL scam detection
+- 🖼️ Advanced screenshot-based scam detection
+- 📱 Mobile application
+- 🌍 Browser extension for real-time protection
+- 🧠 Scam pattern database
+- 🔔 Real-time scam alerts
 
 ---
 
 # 🎯 Impact
 
-ScamShield aims to reduce online fraud by helping users identify suspicious content before becoming victims.
-By combining Generative AI with an easy-to-use interface, it provides accessible scam awareness and prevention.
+ScamShield aims to reduce online fraud by helping users identify suspicious content before becoming victims. By combining Generative AI with an easy-to-use interface, it provides accessible scam awareness and prevention.
 
 ---
 
 # 👩‍💻 Built With
-Python
-Streamlit
-Google Gemini AI
+- Python
+- Streamlit
+- Google Gemini AI
 
 ----
 
-🛡️ Making Digital Spaces Safer with AI
+# 🛡️ Making Digital Spaces Safer with AI
